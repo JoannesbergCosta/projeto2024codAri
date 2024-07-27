@@ -1,4 +1,4 @@
-# IFitness
+# IFitness Center
 
 Bem-vindo ao repositório do projeto IFitness Center! Este documento contém as regras e diretrizes para colaborar neste projeto.
 
@@ -54,7 +54,7 @@ Bem-vindo ao repositório do projeto IFitness Center! Este documento contém as 
 Para dúvidas ou mais informações, entre em contato com o mantenedor do projeto:
 
 - Nome: [Joannesberg]
-- Email: [joannesberg.100@GMAIL.COM]
+- Email: [joannesberg.100@gmail.com]
 
-Obrigado por contribuir para o projeto IFitness!
+Obrigado por contribuir para o projeto IFitness Center!
 
