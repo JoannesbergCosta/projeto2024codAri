@@ -1,4 +1,4 @@
-# IFitness 
+# IFit
 
 Bem-vindo ao repositório do projeto IFitness Center! Este documento contém as regras e diretrizes para colaborar neste projeto.
 
