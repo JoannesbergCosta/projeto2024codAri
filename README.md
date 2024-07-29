@@ -56,5 +56,5 @@ Para dúvidas ou mais informações, entre em contato com o mantenedor do projet
 - Nome: [Joannesberg]
 - Email: [joannesberg.100@gmail.com]
 
-Obrigado por contribuir para o projeto IFitness Center!
+Obrigado por contribuir para o projeto IFit!
 
