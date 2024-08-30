@@ -1,0 +1,30 @@
+Reunião do projeto dia 30/08/2024:
+
+-Analise de documento e acertos sobre a reunião com um dos educadores físico:
+-
+no inicio debatemos sobre um projeto referencia, analisamos os documentos do projeto referencia.
+-
+Debatemos sobre a Reunião com os educadores físico do campus:
+- Solicitar sugestão, Entender as necessidades e levar quem sabe, alguns protótipo feitos.
+-
+Debatemos também sobre um questionário com os usuários.
+-
+
+Gestão de tempo:
+-Criamos um cronograma realista: Definimos um cronograma detalhado com os prazos:
+-
+obs:
+Reuniões de duas vezes por semanas: (Seg e Sexta). => Checkpoints semanais!
+sprints, com ciclos de 15 dias.
+-
+-Divisões de tarefas:
+-
+-Depois distribuirmos com detalhes o que cada membro irá fazer, suas responsibilidades especificas.
+-
+Escolha dos papeis da equipe:
+- PO: Joaquim; Scrum Master: Berg; Time de desenvolvimento: Geral.
+-
+Execução do Projeto:
+-
+obs: 
+Queremos saber se vamos começar com o crud logo, ou precisamos criar as entidades e funcionalidades e dps criar o banco de dados para chegar no crud. pq já temos o planejamento do sistema.
